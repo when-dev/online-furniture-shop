@@ -15,7 +15,7 @@ To get started with the project:
 2. Clone it via `git clone https://github.com/when-dev/online-furniture-shop.git`
 3. Open up **online-furniture-shop** folder (type `cd online-furniture-shop` in bash)
 4. Install the dependencies `npm i`
-5. Start a local server `npm run dev`
+5. Start a local server `npm start`
 
 You should be able to access [http://localhost:3000](http://localhost:3000) for now.
 
