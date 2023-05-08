@@ -13,6 +13,7 @@ module.exports = {
         'pantone-purple': '#E0D3F5',
         'purple': '#7E33E0',
         'off-purple': '#9F63B5',
+        'light-pink': "#F2F0FF",
       },
       fontFamily: {
         lato: ['Lato', "sans-serif"],

@@ -3,8 +3,11 @@ import Header from '../components/Header';
 
 const HomePage = () => {
   return (
-    <div className=''>
+    <div>
       <Header />
+      <div className=''>
+
+      </div>
     </div>
   )
 }
